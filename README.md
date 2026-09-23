@@ -1,1 +1,1 @@
-# scamsafe
+# scamsafeapp
